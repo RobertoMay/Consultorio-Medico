@@ -5,7 +5,9 @@
 **Docente**: Dr. Felipe Ángel Álvarez Salgado
 
 **Repositorio del proyecto:** [https://github.com/RobertoMay/Consultorio-Medico](https://github.com/RobertoMay/Consultorio-Medico)
+
 **Repositorio Angular:** [https://github.com/RobertoMay/Consultorio-Medico-Angular](https://github.com/RobertoMay/Consultorio-Medico-Angular)
+
 **Repositorio NestJS:** [https://github.com/RobertoMay/nest-ms-consultorio](https://github.com/RobertoMay/nest-ms-consultorio)
 
 Como parte de la materia de taller de base de datos elabore una aplicación web que utiliza NestJS para el backend, empleando SQL Server como sistema de gestión de base de datos, y Angular para el frontend.
